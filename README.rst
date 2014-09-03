@@ -1,0 +1,4 @@
+ledgerbeans
+===========
+
+Double-entry accounting.

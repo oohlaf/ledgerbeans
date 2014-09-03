@@ -1,0 +1,7 @@
+__pycache__
+*.egg-info
+*.py[co]
+*.swp
+*~
+ledgerbeans/parser.out
+ledgerbeans/parsetab.py
